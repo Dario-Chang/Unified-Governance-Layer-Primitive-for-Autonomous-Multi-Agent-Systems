@@ -1,0 +1,2 @@
+# Unified-Governance-Layer-Primitive-for-Autonomous-Multi-Agent-Systems
+Non‑enabling defensive publication describing a unified governance‑layer primitive for autonomous multi‑agent systems, including conceptual identity provenance, behavioral ingestion, predictive scoring, authenticated proof exchange, deterministic settlement, and cross‑network synchronization. All proprietary implementations remain confidential.
