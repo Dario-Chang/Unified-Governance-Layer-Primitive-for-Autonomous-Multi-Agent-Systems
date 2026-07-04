@@ -2,6 +2,7 @@
 
 # **Unified Governance Layer Primitive for Autonomous Multi‑Agent Systems**  
 ### **Conceptual Defensive Publication — CC0 1.0 Universal**
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/d59c56de-3a63-45e8-a287-c5fb9f87b610" />
 
 ---
 
